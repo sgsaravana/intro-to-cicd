@@ -1,5 +1,5 @@
 function sayHi(name) {
-  return `Hello there ${name}`; // adding comments
+  return `Hello ${name}`; // adding comments
 }
 
 module.exports = sayHi;
